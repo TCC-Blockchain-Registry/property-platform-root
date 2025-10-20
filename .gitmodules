@@ -1,0 +1,12 @@
+[submodule "offchain-consumer-srv"]
+	path = offchain-consumer-srv
+	url = git@github.com:TCC-Blockchain-Registry/offchain-consumer-srv.git
+[submodule "wallet-property-fed"]
+	path = wallet-property-fed
+	url = git@github.com:TCC-Blockchain-Registry/wallet-property-fed.git
+[submodule "core-orchestrator-srv"]
+	path = core-orchestrator-srv
+	url = git@github.com:TCC-Blockchain-Registry/core-orchestrator-srv.git
+[submodule "besu-property-ledger"]
+	path = besu-property-ledger
+	url = git@github.com:TCC-Blockchain-Registry/besu-property-ledger.git

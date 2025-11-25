@@ -10,3 +10,12 @@
 [submodule "besu-property-ledger"]
 	path = besu-property-ledger
 	url = git@github.com:TCC-Blockchain-Registry/besu-property-ledger.git
+[submodule "bff-gateway"]
+	path = bff-gateway
+	url = git@github.com:TCC-Blockchain-Registry/bff-gateway.git
+[submodule "queue-worker"]
+	path = queue-worker
+	url = git@github.com:TCC-Blockchain-Registry/queue-worker.git
+[submodule "message-queue"]
+	path = message-queue
+	url = git@github.com:TCC-Blockchain-Registry/message-queue.git

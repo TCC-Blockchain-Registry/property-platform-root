@@ -19,3 +19,6 @@
 [submodule "message-queue"]
 	path = message-queue
 	url = git@github.com:TCC-Blockchain-Registry/message-queue.git
+[submodule "property-tcc-infrastructure"]
+	path = property-tcc-infrastructure
+	url = git@github.com:TCC-Blockchain-Registry/property-tcc-infrastructure.git
